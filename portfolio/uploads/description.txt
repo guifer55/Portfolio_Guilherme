@@ -1,0 +1,1 @@
+BlackJack project developed by Guilherme Ferreira for my C# Object Oriented Programming class
